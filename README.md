@@ -5,5 +5,8 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Francesco-Rapetti&layout=compact&langs_count=8&card_width=320&theme=catppuccin_mocha&hide_border=true" />
 </a>
 
-<img src="https://codeium.com/profile/rapo/card.png" />
+<a href="https://codeium.com/profile/rapo">
+  <img height=200 align="center" src="https://codeium.com/profile/rapo/card.png" />
+</a>
+
 
