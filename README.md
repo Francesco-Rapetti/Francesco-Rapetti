@@ -1,4 +1,4 @@
-<div class="wrapper">
+<div align="center">
   <a href="https://github.com/Francesco-Rapetti">
     <img width=470 align="center" src="https://github-readme-stats.vercel.app/api?username=Francesco-Rapetti&theme=catppuccin_mocha&show_icons=true&hide_border=true&rank_icon=github&number_format=long" />
   </a>
@@ -10,14 +10,5 @@
     <img width=805 align="center" src="https://codeium.com/profile/francesco/card.png" />
   </a>
 </div>
-
-<style>
-  .wrapper {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-  }
-</style>
 
 
