@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://codeium.com/profile/rapo">
-  <img width=800 align="center" src="https://codeium.com/profile/rapo/card.png" />
+  <img width=805 align="center" src="https://codeium.com/profile/rapo/card.png" />
 </a>
 
 
