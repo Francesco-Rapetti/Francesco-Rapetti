@@ -5,4 +5,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Francesco-Rapetti&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Francesco-Rapetti&repo=deliveboo-frontend)](https://github.com/Francesco-Rapetti/deliveboo-frontend)
